@@ -13,6 +13,7 @@ int main() {
 			printf("error");
 		}
 		printf("z\n");
+		printf("change program");
 		sleep(1);
 	}
 }
