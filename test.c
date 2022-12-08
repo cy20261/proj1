@@ -14,6 +14,7 @@ int main() {
 		}
 		printf("z\n");
 		printf("change program");
+		printf("Hello");
 		sleep(1);
 	}
 }
